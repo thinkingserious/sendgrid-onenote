@@ -6,6 +6,13 @@
 *.user
 *.sln.docstates
 
+# Environments
+env
+*.config
+
+# Python
+*.pyc
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -74,6 +81,11 @@ ipch/
 *.psess
 *.vsp
 *.vspx
+
+# Python Tools for Visual Studio
+.ptvs
+ptvs_virtualenv_proxy.py
+*.pyproj
 
 # TFS 2012 Local Workspace
 $tf/
