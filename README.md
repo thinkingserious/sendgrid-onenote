@@ -1,4 +1,4 @@
-The companion blog post, which explains the usage of this code can be found [here](http://sendgrid.com/blog).
+The companion blog post, which explains the usage of this code can be found [here](http://sendgrid.com/blog/onenote-and-sendgrids-event-webhook).
 
 ## Info & Help
 
